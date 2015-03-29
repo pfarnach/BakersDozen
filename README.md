@@ -1,7 +1,5 @@
-# BAKER'S DOZEN ([Skeleton](http://getskeleton.com))
-Baker's Dozen is a simple, responsive boilerplate to kickstart any responsive project that adds an inuitive thirteen column to the boring old twelve column standard.
-
-Check out <http://getskeleton.com> for documentation, details, and the real thing.
+# BAKER'S DOZEN ([Baker's Dozen](http://getskeleton.com))
+Baker's Dozen is a simple, responsive boilerplate to kickstart any responsive project that adds an inuitive thirteenth column to the boring old twelve column standard.
 
 
 ### What's in the download?
@@ -48,4 +46,6 @@ All parts of Baker's Dozen are free to use and abuse under the [open-source MIT 
 
 Baker's Dozen was created by [Pat Farnach](http://patfarnach.com) for a better, more carbo-loaded web.
 
-Also, I acknowledge that this is an April Fool's Day joke and the only work I did to make this was recalculating the column width's and the column offset's margins. [Dave Gamache](https://twitter.com/dhg) is the real hero, I'm just a shitty baker.
+Also, I acknowledge that this is an April Fool's Day joke and the only work I did to make this was recalculating the column width's and the column offset's margins. All the real work was done by [Dave Gamache](https://twitter.com/dhg) and Baker's Dozen is just a cheap rip-off of Skeleton.
+
+Check out <http://getskeleton.com> for documentation, details, and the real thing.
