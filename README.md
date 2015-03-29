@@ -1,5 +1,5 @@
 # BAKER'S DOZEN ([Baker's Dozen](http://getskeleton.com))
-Baker's Dozen is a simple, responsive boilerplate to kickstart any responsive project that adds an inuitive thirteenth column to the boring old twelve column standard.
+Baker's Dozen is a simple, responsive boilerplate to kickstart any responsive project that adds an intuitive thirteenth column to the boring old twelve column standard.
 
 
 ### What's in the download?
