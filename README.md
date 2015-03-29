@@ -26,6 +26,10 @@ Baker's Dozen is lightweight and simple. It styles only raw HTML elements (with 
 - No compiling or installing...just vanilla CSS
 
 
+### Screenshot
+![alt tag](https://github.com/pfarnach/BakersDozen/blob/master/screenshot.png)
+
+
 ## Browser support
 
 - Chrome latest
